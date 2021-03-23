@@ -33,7 +33,7 @@
 #include "core/authors.gen.h"
 #include "core/donors.gen.h"
 #include "core/license.gen.h"
-//#include "gamevolutions.h"
+#include "gamevolutions.h"
 #include "core/version.h"
 #include "core/version_hash.gen.h"
 
