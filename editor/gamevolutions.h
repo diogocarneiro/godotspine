@@ -23,14 +23,15 @@ static const char *about_license =
 	"OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\n"
 	"SOFTWARE.\n";
 static const char *gamevolutions_license =
-	"Copyright (c) Gamevolutions - Pesquisa e Desenvolvimento.\n"
+	"-= Godot Engine 3.2.3 - With Spine Module Build-In =-\n"
+	"Copyright (c) 2021 Gamevolutions - Pesquisa e Desenvolvimento.\n"
 	"\n"
 	"Author: Diogo Carneiro.\n"
 	"E-mail: geral@diogocarneiro.pt.\n"
 	"Web   : https://www.gamevolutions.com.\n"
 	
 	"\n"
-	"[3.0.7]\n"
+	"[3.2.3]\n"
 	"\n"
 		"- [EN] - Initial build with Spine 2D plugin.\n"
 		"- [PT] - Build inicial com o plugin Spine 2D.\n"
