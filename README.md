@@ -61,7 +61,7 @@ alt="chat on Discord">
 
 <br />
 <p align="center">
-<img src="https://raw.githubusercontent.com/diogocarneiro/godot-spine/main/godot_spine_logo.png" alt="Logo" width="512" height="207">
+<img src="https://raw.githubusercontent.com/diogocarneiro/godotspine/main/godot_spine_logo.png" alt="Logo" width="512" height="207">
 </a>
 
 <h3  align="center">Godot Engine - Spine2D Module Build-In</h3>
