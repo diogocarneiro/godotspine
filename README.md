@@ -182,9 +182,9 @@ Base:
 * [x] Criação do logo para este projecto.
 * [x] Adicionar Godot Engine.
 * [x] Adicionar Module Spine2D.
-* [ ] Modificar o Editor.
-* [ ] Actualização de menus do Editor.
-
+* [x] Modificar o Editor.
+* [x] Actualização de menus do Editor.
+* [ ] Fazer o addon externo do Spine.
 
 
 <!-- CONTRIBUTING -->
