@@ -65,7 +65,6 @@ alt="chat on Discord">
 </a>
 
 <h3  align="center">Godot Engine - Spine2D Module Build-In</h3>
-<p  align="center">Godot Engine - Spine2D Module Build-In</p>
 
 <!-- TABLE OF CONTENTS -->
 
