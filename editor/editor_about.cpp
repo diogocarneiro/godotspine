@@ -33,7 +33,6 @@
 #include "core/authors.gen.h"
 #include "core/donors.gen.h"
 #include "core/license.gen.h"
-#include "gamevolutions.h"
 #include "core/version.h"
 #include "core/version_hash.gen.h"
 
@@ -273,7 +272,31 @@ EditorAbout::EditorAbout() {
 	_gamevolutions_text->set_name(TTR("About Spine With Module Build-In"));
 	_gamevolutions_text->set_h_size_flags(Control::SIZE_EXPAND_FILL);
 	_gamevolutions_text->set_v_size_flags(Control::SIZE_EXPAND_FILL);
-	_gamevolutions_text->set_text(String::utf8(gamevolutions_license));
+	_gamevolutions_text->set_text(String::utf8(
+	"-= Godot Engine 3.2.3 - With Spine Module Build-In =-\n"
+	"Copyright (c) 2021 Gamevolutions - Pesquisa e Desenvolvimento.\n"
+	"\n"
+	"Author: Diogo Carneiro.\n"
+	"E-mail: geral@diogocarneiro.pt.\n"
+	"Web   : https://www.gamevolutions.com.\n"
+	
+	"\n"
+	"[3.2.3]\n"
+	"\n"
+		"- [EN] - Initial build with Spine 2D plugin.\n"
+		"- [PT] - Build inicial com o plugin Spine 2D.\n"
+	"\n"
+	"Animation brings video games alive. We believe creating great 2D animation requires\n"
+	"not only powerful software, but a powerful workflow. Spine is dedicated to 2D skeletal\n"
+	"animation, providing an efficient workflow both for creating amazing animation and for integrating\n"
+	"it into your games.\n"
+	
+	"\n"
+	"About the license\n"
+	"\n"
+	"This module is forked from sanikoyes's godot branch and some of the code is forked from godot-spine-module. Both of the code are declared as MIT license.\n"
+	"The license of this module is under the Spine Runtimes Software License.\n"
+	));
 	tc->add_child(_gamevolutions_text);
 }
 
