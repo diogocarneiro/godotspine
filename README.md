@@ -223,7 +223,7 @@ Veja [Licença](https://github.com/diogocarneiro/godot-spine/blob/main/LICENSE) 
 
 Nome: [Diogo Carneiro](https://www.gamevolutions.pt)
 <br>
-E-mail: [geral@mobilebrains.pt](mailto:geral@diogocarneiro.pt)
+E-mail: [geral@diogocarneiro.pt](mailto:geral@diogocarneiro.pt)
 <br>
 Twitter: [Diogo Carneiro](https://twitter.com/diogoncarneiro)
 <br>
