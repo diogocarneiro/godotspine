@@ -229,7 +229,7 @@ Twitter: [Diogo Carneiro](https://twitter.com/diogoncarneiro)
 <br>
 Skype: [live:diogoncarneiro](live:diogoncarneiro)
 <br>
-Link do Projecto: [https://github.com/diogocarneiro/godot-spine](https://github.com/diogocarneiro/godot-spine)
+Link do Projecto: [https://github.com/diogocarneiro/godot-spine](https://github.com/diogocarneiro/godotspine)
 
   
 
