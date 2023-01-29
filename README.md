@@ -213,7 +213,7 @@ Contribuições são o que tornam a comunidade de código aberto um lugar incrí
 
 Distribuído sob a licença MIT.
 
-Veja [Licença](https://github.com/diogocarneiro/godot-spine/blob/main/LICENSE) para mais informações.
+Veja [Licença](https://github.com/diogocarneiro/godotspine/blob/main/LICENSE) para mais informações.
 
   
 
@@ -229,7 +229,7 @@ Twitter: [Diogo Carneiro](https://twitter.com/diogoncarneiro)
 <br>
 Skype: [live:diogoncarneiro](live:diogoncarneiro)
 <br>
-Link do Projecto: [https://github.com/diogocarneiro/godot-spine](https://github.com/diogocarneiro/godotspine)
+Link do Projecto: [https://github.com/diogocarneiro/godotspine](https://github.com/diogocarneiro/godotspine)
 
   
 
