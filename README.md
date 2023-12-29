@@ -242,4 +242,4 @@ Link do Projecto: [https://github.com/diogocarneiro/godotspine](https://github.c
 ## Donate
 Pay me a Coffee to help me get on with the job.
 
-[![Donate with Bitcoin](https://en.cryptobadges.io/badge/micro/3BPN2BzYt1Jj3Btf1eiHf7G8ioYbLWBWMW)](https://en.cryptobadges.io/donate/3BPN2BzYt1Jj3Btf1eiHf7G8ioYbLWBWMW) [![Donate with Ethereum](https://en.cryptobadges.io/badge/micro/0xbdef35e78662f53b0dbf1e723df69f39a771be6b)](https://en.cryptobadges.io/donate/0xbdef35e78662f53b0dbf1e723df69f39a771be6b) [![Donate with Litecoin](https://en.cryptobadges.io/badge/micro/LZ2g2hodU3thFYy9JYFsirUH29ujJF1v7e)](https://en.cryptobadges.io/donate/LZ2g2hodU3thFYy9JYFsirUH29ujJF1v7e)
+[![Donate with PayPal](https://paypal.me/diogoncarneiro) 
