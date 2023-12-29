@@ -221,7 +221,7 @@ Veja [Licença](https://github.com/diogocarneiro/godotspine/blob/main/LICENSE) p
 
 ##  Contacto
 
-Nome: [Diogo Carneiro](https://www.gamevolutions.fr)
+Nome: [Diogo Carneiro](https://www.diogocarneiro.fr)
 <br>
 E-mail: [geral@diogocarneiro.pt](mailto:geral@diogocarneiro.fr)
 <br>
@@ -242,5 +242,5 @@ Link do Projecto: [https://github.com/diogocarneiro/godotspine](https://github.c
 ## Donate
 Pay me a Coffee to help me get on with the job.
 
-<button><a href="https://paypal.me/diogoncarneiro">Pay me a Coffee</a></button>
+[Pay me a Coffe](https://paypal.me/diogoncarneiro)
 
