@@ -241,5 +241,5 @@ Link do Projecto: [https://github.com/diogocarneiro/godotspine](https://github.c
 
 ## Donate
 Pay me a Coffee to help me get on with the job.
-
-[![Donate with PayPal](https://paypal.me/diogoncarneiro) 
+<button url="https://paypal.me/diogoncarneiro
+">Pay me a Coffee</button
