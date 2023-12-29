@@ -221,9 +221,9 @@ Veja [Licença](https://github.com/diogocarneiro/godotspine/blob/main/LICENSE) p
 
 ##  Contacto
 
-Nome: [Diogo Carneiro](https://www.gamevolutions.pt)
+Nome: [Diogo Carneiro](https://www.gamevolutions.fr)
 <br>
-E-mail: [geral@diogocarneiro.pt](mailto:geral@diogocarneiro.pt)
+E-mail: [geral@diogocarneiro.pt](mailto:geral@diogocarneiro.fr)
 <br>
 Twitter: [Diogo Carneiro](https://twitter.com/diogoncarneiro)
 <br>
